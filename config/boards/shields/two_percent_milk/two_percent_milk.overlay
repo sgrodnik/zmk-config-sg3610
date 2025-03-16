@@ -4,6 +4,8 @@
  * SPDX-License-Identifier: MIT
  */
 
+#include "pmw3610.dtsi"
+
 / {
     chosen {
         zmk,kscan = &kscan0;
